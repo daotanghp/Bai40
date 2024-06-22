@@ -1,0 +1,11 @@
+div {
+  width: 400px;
+  height: 300px;
+  color: yellowgreen;
+  background-color: blue;
+  /* padding: 20px; */
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+}
